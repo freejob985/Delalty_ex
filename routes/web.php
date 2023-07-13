@@ -18,7 +18,8 @@ use Illuminate\Support\Facades\Route;
 //    //deleting directory using the storage facade
 // }
 Route::get('/', function () {
-
+echo"ssss
+";
 
     return view('welcome');
 });
